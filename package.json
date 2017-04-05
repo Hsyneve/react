@@ -15,6 +15,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage":"https://hsyneve.github.io/react"
+  "homepage":"https://hsyneve.github.io/react/build"
 
 }
