@@ -2,12 +2,19 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+   background: #ddd;
 }
 h1
 {
 	text-align: center;
     background: pink;
-    height: 100px;
-    line-height: 100px;
-    font-size: 40px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 24px;
 }
+
+#root{
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+ }
